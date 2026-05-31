@@ -122,4 +122,3 @@ Me chamo João Victor Barbosa, tenho 16 anos e sou natural de Minas Gerais. conc
 <br/>
 
 
-<img 
