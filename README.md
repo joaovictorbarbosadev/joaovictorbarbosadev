@@ -1,5 +1,4 @@
-Aqui está com o emoji corrigido para masculino:
-markdown# 👨🏻‍💻 João Victor Barbosa
+# 👨🏻‍💻 João Victor Barbosa
 **`Desenvolvedor FullStack`**
 
 Me chamo João Victor Barbosa, tenho 16 anos e sou natural de Minas Gerais. Concluindo ensino médio tempo integral, com o curso técnico em informática.
