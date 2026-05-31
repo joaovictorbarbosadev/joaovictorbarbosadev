@@ -3,6 +3,10 @@
 
 Me chamo João Victor Barbosa, tenho 16 anos e sou natural de Minas Gerais. Estou concluindo o ensino médio tempo integral com curso técnico em informática, e desde cedo desenvolvi paixão pela tecnologia e programação. Estou sempre em evolução, buscando aprender novas linguagens, ferramentas e boas práticas do desenvolvimento. Acredito que cada projeto é uma oportunidade de crescer, e meu objetivo é me tornar um desenvolvedor cada vez mais completo e preparado para os desafios do mercado.
 
+### 🔗 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-victor-barbosa-dev/)
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -44,6 +48,14 @@ Me chamo João Victor Barbosa, tenho 16 anos e sou natural de Minas Gerais. Esto
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="POO"
+    title="Programação Orientada a Objetos" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" 
 />
 
 <br/>
