@@ -7,7 +7,7 @@ Me chamo João Victor Barbosa, tenho 16 anos e sou natural de Minas Gerais. Esto
 
 ### 🔗 Conecte-se comigo
 
-<a href="https://www.linkedin.com/in/joão-victor-barbosa-dev/" target="_blank">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-victor-barbosa-dev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:joaovictorbarbosa.dev@gmail.com">
@@ -23,7 +23,6 @@ Me chamo João Victor Barbosa, tenho 16 anos e sou natural de Minas Gerais. Esto
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="C++" title="C++" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img align="left" alt="POO" title="Programação Orientada a Objetos" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/objectivec/objectivec-plain.svg"/>
 
 <br/>
 <br/>
