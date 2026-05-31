@@ -1,6 +1,6 @@
 # 👩🏻‍💻 João Victor Barbosa
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo João Victor Barbosa, tenho 16 anos e sou natural de Minas Gerais. concluindo ensino médio tempo integral, com o curso técnico em informática.
 ### 🤖 Linguagens e Tecnologias
