@@ -4,13 +4,6 @@
 
 Me chamo João Victor Barbosa, tenho 16 anos e sou natural de Minas Gerais. Concluindo Ensino Medio Tempo Integral, com o curso técnico em informática. Sou apaixonado por tecnologia.
 
-
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
